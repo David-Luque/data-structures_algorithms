@@ -14,5 +14,5 @@ function countUniqueValues(arr){
         }
     }
     
-    return refPoint + 1;;
+    return refPoint + 1;
 }
